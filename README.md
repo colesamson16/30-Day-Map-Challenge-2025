@@ -29,7 +29,7 @@ FeatureGroupSubGroup – Allows grouping markers by animal type for easy filteri
 Pillow (optional) – Used for resizing images before converting to Base64. If not installed, images are embedded at original size.
 
 ## Preview
-*(Insert your map image here)*
+<img width="776" height="555" alt="image" src="https://github.com/user-attachments/assets/11fbf375-a547-4415-b8ae-6e2258ee57da" />
 
 ---
 
