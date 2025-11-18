@@ -1,5 +1,11 @@
 # 30 Day Map Challenge – Day 24: Places and Their Names
 
+## Link
+https://colesamson16.github.io/30-Day-Map-Challenge-2025/
+
+## Preview
+<img width="776" height="555" alt="image" src="https://github.com/user-attachments/assets/11fbf375-a547-4415-b8ae-6e2258ee57da" />
+
 ## Theme
 **Places and Their Names** – For this challenge, I mapped towns and cities in the United States that include an **animal** in their name.
 
@@ -28,13 +34,6 @@ MeasureControl – Adds distance and area measurement tools.
 FeatureGroupSubGroup – Allows grouping markers by animal type for easy filtering.
 Pillow (optional) – Used for resizing images before converting to Base64. If not installed, images are embedded at original size.
 
-## Preview
-<img width="776" height="555" alt="image" src="https://github.com/user-attachments/assets/11fbf375-a547-4415-b8ae-6e2258ee57da" />
+
 
 ---
-
-### Notes
-- This is part of the [30 Day Map Challenge](https://30daymapchallenge on the relationship between geography and naming patterns.
-
----
-
